@@ -9,4 +9,4 @@ Data Analysis with python
 >streamlit run streamlit_app.py
 
 link deploy
->https://bikesharinganalytics-9x5vykvtvl8qhadggrlco8.streamlit.app/
+>https://bikesharinganalytics.streamlit.app/
