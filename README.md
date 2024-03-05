@@ -6,7 +6,7 @@ Data Analysis with python
 >pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 
 # streamlit
->streamlit run streamlit/streamlit_app.py
+>streamlit run streamlit_app.py
 
 link deploy
 >https://bikesharinganalytics-9x5vykvtvl8qhadggrlco8.streamlit.app/
